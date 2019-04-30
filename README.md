@@ -5,5 +5,5 @@ An algorithm that uses the rapidXML library to load in a KML file containing the
 KML file on Google Maps before running algorithm:
 ![Screenshot](before.png)
 
-New KML file created by the Algorithm Google
+New KML file created by the Algorithm on Google Maps
 ![Screenshot](after.png)
